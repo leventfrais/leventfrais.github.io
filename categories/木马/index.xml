@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>木马 on 3lizabeth&#39;s Blog</title>
-    <link>http://localhost:1313/categories/%E6%9C%A8%E9%A9%AC/</link>
+    <link>http://hqu3lizabeth.top/categories/%E6%9C%A8%E9%A9%AC/</link>
     <description>Recent content in 木马 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 10 Aug 2024 17:33:06 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E6%9C%A8%E9%A9%AC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hqu3lizabeth.top/categories/%E6%9C%A8%E9%A9%AC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>基于已签名dll注入器的dll注入木马</title>
-      <link>http://localhost:1313/posts/study/dll_inject1/</link>
+      <link>http://hqu3lizabeth.top/posts/study/dll_inject1/</link>
       <pubDate>Sat, 10 Aug 2024 17:33:06 +0800</pubDate>
-      <guid>http://localhost:1313/posts/study/dll_inject1/</guid>
+      <guid>http://hqu3lizabeth.top/posts/study/dll_inject1/</guid>
       <description>利用已有签名的dll注入器来对目标进程注入恶意dll，执行恶意代码。</description>
     </item>
   </channel>
