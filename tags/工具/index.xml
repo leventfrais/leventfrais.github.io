@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>工具 on 3lizabeth&#39;s Blog</title>
-    <link>https://www.hqu3lizabeth.top/tags/%E5%B7%A5%E5%85%B7/</link>
+    <link>https://leventfrais.github.io/tags/%E5%B7%A5%E5%85%B7/</link>
     <description>Recent content in 工具 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 27 Apr 2024 14:58:34 +0800</lastBuildDate>
-    <atom:link href="https://www.hqu3lizabeth.top/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leventfrais.github.io/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>基础测试工具的安装、配置</title>
-      <link>https://www.hqu3lizabeth.top/posts/study/tools_build/</link>
+      <link>https://leventfrais.github.io/posts/study/tools_build/</link>
       <pubDate>Sat, 27 Apr 2024 14:58:34 +0800</pubDate>
-      <guid>https://www.hqu3lizabeth.top/posts/study/tools_build/</guid>
+      <guid>https://leventfrais.github.io/posts/study/tools_build/</guid>
       <description>之前实习的时候，给公司一些小白实习生写过一些配置文档。安装和配置这些工具也算是每个网安从业者必经的一个过程吧；有些工具早已经被淘汰，有的依旧仍在使用。简单记录一下</description>
     </item>
   </channel>
