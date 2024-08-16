@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>面经 on 3lizabeth&#39;s Blog</title>
-    <link>https://leventfrais.github.io/tags/%E9%9D%A2%E7%BB%8F/</link>
+    <link>http://localhost:1313/tags/%E9%9D%A2%E7%BB%8F/</link>
     <description>Recent content in 面经 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 11 May 2024 22:53:29 +0800</lastBuildDate>
-    <atom:link href="https://leventfrais.github.io/tags/%E9%9D%A2%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E9%9D%A2%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>厦门吉比特信息安全岗24年5月实习面经</title>
-      <link>https://leventfrais.github.io/posts/articles/gbit_2405_exp/</link>
+      <link>http://localhost:1313/posts/articles/gbit_2405_exp/</link>
       <pubDate>Sat, 11 May 2024 22:53:29 +0800</pubDate>
-      <guid>https://leventfrais.github.io/posts/articles/gbit_2405_exp/</guid>
+      <guid>http://localhost:1313/posts/articles/gbit_2405_exp/</guid>
       <description>刚收到360的实习offer，就又接到吉比特的面试邀请。刚开始还觉得稳扎稳打，后来才发掘360的offer压根太没技术含量了。。果然甲方还是对技术要求吹毛求疵的，光是基础都把我问住了，还面个什么劲儿呢。至今都有甲方面试阴影了。</description>
     </item>
   </channel>
