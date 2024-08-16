@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>面经 on 3lizabeth&#39;s Blog</title>
-    <link>http://localhost:1313/categories/%E9%9D%A2%E7%BB%8F/</link>
+    <link>https://leventfrais.github.io/categories/%E9%9D%A2%E7%BB%8F/</link>
     <description>Recent content in 面经 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 11 May 2024 22:53:29 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E9%9D%A2%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leventfrais.github.io/categories/%E9%9D%A2%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>厦门吉比特信息安全岗24年5月实习面经</title>
-      <link>http://localhost:1313/posts/articles/gbit_2405_exp/</link>
+      <link>https://leventfrais.github.io/posts/articles/gbit_2405_exp/</link>
       <pubDate>Sat, 11 May 2024 22:53:29 +0800</pubDate>
-      <guid>http://localhost:1313/posts/articles/gbit_2405_exp/</guid>
+      <guid>https://leventfrais.github.io/posts/articles/gbit_2405_exp/</guid>
       <description>刚收到360的实习offer，就又接到吉比特的面试邀请。刚开始还觉得稳扎稳打，后来才发掘360的offer压根太没技术含量了。。果然甲方还是对技术要求吹毛求疵的，光是基础都把我问住了，还面个什么劲儿呢。至今都有甲方面试阴影了。</description>
     </item>
     <item>
       <title>北京360渗透测试24年4月实习面经</title>
-      <link>http://localhost:1313/posts/articles/360_2404_exp/</link>
+      <link>https://leventfrais.github.io/posts/articles/360_2404_exp/</link>
       <pubDate>Thu, 25 Apr 2024 18:53:14 +0800</pubDate>
-      <guid>http://localhost:1313/posts/articles/360_2404_exp/</guid>
+      <guid>https://leventfrais.github.io/posts/articles/360_2404_exp/</guid>
       <description>人生第一次面正经大厂，虽然流程很规范，但是感觉面试内容还是挺水的。刚开始还在质疑岗位是否是hw黑奴，虽然后来的确去了，并且确实和hw黑奴有区分，但是实际上还是被用“缺人”为理由送去驻场了。不过这都是后话了。整体面试挺简单，主要是问简历实习和做过的事，基本没有八股。</description>
     </item>
   </channel>
