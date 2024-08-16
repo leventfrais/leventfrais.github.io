@@ -1,1 +1,0 @@
-## welcome minna san!
