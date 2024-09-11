@@ -6,8 +6,15 @@
     <description>Recent content in 网络安全 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 20 May 2024 10:08:14 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 15:22:55 +0800</lastBuildDate>
     <atom:link href="https://leventfrais.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dll_hijacking</title>
+      <link>https://leventfrais.github.io/posts/study/dll_hijacking/</link>
+      <pubDate>Tue, 10 Sep 2024 15:22:55 +0800</pubDate>
+      <guid>https://leventfrais.github.io/posts/study/dll_hijacking/</guid>
+      <description>本文章系参考、缝合多方资料，与多篇文章略有雷同。本文提及的白名单app对其均为试验、学习性使用，不对其涉及的漏洞有恶意利用操作。本人技术有限，如有错误还请斧正。</description>
+    </item>
     <item>
       <title>XSS漏洞基础</title>
       <link>https://leventfrais.github.io/posts/study/xss_basic/</link>

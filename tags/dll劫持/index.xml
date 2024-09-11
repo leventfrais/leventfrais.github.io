@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DLL劫持 on 3lizabeth&#39;s Blog</title>
+    <link>https://leventfrais.github.io/tags/dll%E5%8A%AB%E6%8C%81/</link>
+    <description>Recent content in DLL劫持 on 3lizabeth&#39;s Blog</description>
+    <generator>Hugo -- 0.132.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 10 Sep 2024 15:22:55 +0800</lastBuildDate>
+    <atom:link href="https://leventfrais.github.io/tags/dll%E5%8A%AB%E6%8C%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dll_hijacking</title>
+      <link>https://leventfrais.github.io/posts/study/dll_hijacking/</link>
+      <pubDate>Tue, 10 Sep 2024 15:22:55 +0800</pubDate>
+      <guid>https://leventfrais.github.io/posts/study/dll_hijacking/</guid>
+      <description>本文章系参考、缝合多方资料，与多篇文章略有雷同。本文提及的白名单app对其均为试验、学习性使用，不对其涉及的漏洞有恶意利用操作。本人技术有限，如有错误还请斧正。</description>
+    </item>
+  </channel>
+</rss>

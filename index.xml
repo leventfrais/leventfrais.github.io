@@ -6,12 +6,33 @@
     <description>Recent content on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 16 Aug 2024 12:34:45 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 10:02:40 +0800</lastBuildDate>
     <atom:link href="https://leventfrais.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teamspeak3build</title>
+      <link>https://leventfrais.github.io/posts/study/teamspeak3build/</link>
+      <pubDate>Wed, 11 Sep 2024 10:02:40 +0800</pubDate>
+      <guid>https://leventfrais.github.io/posts/study/teamspeak3build/</guid>
+      <description>使用轻量级阿里云服务器搭建个人teamspeak服务器</description>
+    </item>
+    <item>
+      <title>Pihua_1</title>
+      <link>https://leventfrais.github.io/posts/chonglang/pihua_1/</link>
+      <pubDate>Tue, 10 Sep 2024 15:57:14 +0800</pubDate>
+      <guid>https://leventfrais.github.io/posts/chonglang/pihua_1/</guid>
+      <description>#批话</description>
+    </item>
+    <item>
+      <title>Dll_hijacking</title>
+      <link>https://leventfrais.github.io/posts/study/dll_hijacking/</link>
+      <pubDate>Tue, 10 Sep 2024 15:22:55 +0800</pubDate>
+      <guid>https://leventfrais.github.io/posts/study/dll_hijacking/</guid>
+      <description>本文章系参考、缝合多方资料，与多篇文章略有雷同。本文提及的白名单app对其均为试验、学习性使用，不对其涉及的漏洞有恶意利用操作。本人技术有限，如有错误还请斧正。</description>
+    </item>
     <item>
       <title>我在北京</title>
       <link>https://leventfrais.github.io/posts/articles/%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC/</link>
-      <pubDate>Fri, 16 Aug 2024 12:34:45 +0800</pubDate>
+      <pubDate>Thu, 22 Aug 2024 12:34:45 +0800</pubDate>
       <guid>https://leventfrais.github.io/posts/articles/%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC/</guid>
       <description>我在北京。</description>
     </item>

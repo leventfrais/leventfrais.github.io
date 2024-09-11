@@ -6,8 +6,15 @@
     <description>Recent content in 工具配置 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 27 Apr 2024 14:58:34 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 10:02:40 +0800</lastBuildDate>
     <atom:link href="https://leventfrais.github.io/categories/%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teamspeak3build</title>
+      <link>https://leventfrais.github.io/posts/study/teamspeak3build/</link>
+      <pubDate>Wed, 11 Sep 2024 10:02:40 +0800</pubDate>
+      <guid>https://leventfrais.github.io/posts/study/teamspeak3build/</guid>
+      <description>使用轻量级阿里云服务器搭建个人teamspeak服务器</description>
+    </item>
     <item>
       <title>基础测试工具的安装、配置</title>
       <link>https://leventfrais.github.io/posts/study/tools_build/</link>
