@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>🏄‍冲浪 on 3lizabeth&#39;s Blog</title>
-    <link>https://leventfrais.github.io/posts/chonglang/</link>
-    <description>Recent content in 🏄‍冲浪 on 3lizabeth&#39;s Blog</description>
+    <title>梦 on 3lizabeth&#39;s Blog</title>
+    <link>https://leventfrais.github.io/tags/%E6%A2%A6/</link>
+    <description>Recent content in 梦 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 12 Sep 2024 19:50:19 +0800</lastBuildDate>
-    <atom:link href="https://leventfrais.github.io/posts/chonglang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://leventfrais.github.io/tags/%E6%A2%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>记梦，其一</title>
       <link>https://leventfrais.github.io/posts/chonglang/dream_1/</link>
       <pubDate>Thu, 12 Sep 2024 19:50:19 +0800</pubDate>
       <guid>https://leventfrais.github.io/posts/chonglang/dream_1/</guid>
       <description>梦是不讲逻辑的，所以我重写做过的梦也是不讲逻辑的。我重写梦只是为了留个念想，哪怕只便未来幻想，别无秀文笔、传淫秽之意。看个乐就好。</description>
-    </item>
-    <item>
-      <title>批话记录</title>
-      <link>https://leventfrais.github.io/posts/chonglang/pihua_1/</link>
-      <pubDate>Tue, 10 Sep 2024 15:57:14 +0800</pubDate>
-      <guid>https://leventfrais.github.io/posts/chonglang/pihua_1/</guid>
-      <description>批话</description>
     </item>
   </channel>
 </rss>
