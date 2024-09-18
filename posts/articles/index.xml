@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>✍杂文 on 3lizabeth&#39;s Blog</title>
-    <link>https://leventfrais.github.io/posts/articles/</link>
+    <link>http://3lizabeth.fun/posts/articles/</link>
     <description>Recent content in ✍杂文 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 02 Sep 2024 12:34:45 +0800</lastBuildDate>
-    <atom:link href="https://leventfrais.github.io/posts/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://3lizabeth.fun/posts/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我在北京</title>
-      <link>https://leventfrais.github.io/posts/articles/%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC/</link>
+      <link>http://3lizabeth.fun/posts/articles/%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC/</link>
       <pubDate>Thu, 22 Aug 2024 12:34:45 +0800</pubDate>
-      <guid>https://leventfrais.github.io/posts/articles/%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC/</guid>
+      <guid>http://3lizabeth.fun/posts/articles/%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC/</guid>
       <description>我在北京。</description>
     </item>
     <item>
       <title>我的360实习</title>
-      <link>https://leventfrais.github.io/posts/articles/%E6%88%91%E7%9A%84360%E5%AE%9E%E4%B9%A0/</link>
+      <link>http://3lizabeth.fun/posts/articles/%E6%88%91%E7%9A%84360%E5%AE%9E%E4%B9%A0/</link>
       <pubDate>Tue, 13 Aug 2024 12:34:20 +0800</pubDate>
-      <guid>https://leventfrais.github.io/posts/articles/%E6%88%91%E7%9A%84360%E5%AE%9E%E4%B9%A0/</guid>
+      <guid>http://3lizabeth.fun/posts/articles/%E6%88%91%E7%9A%84360%E5%AE%9E%E4%B9%A0/</guid>
       <description>从五月收到360offer开始，对于暑假的去向我就一直在犹豫：是呆在网宿，还是回重庆去绿盟，还是去360.最终我去了360。现在想来也无后悔一说。本文记录一下我七八月在360北京的心路历程。</description>
     </item>
     <item>
       <title>厦门吉比特信息安全岗24年5月实习面经</title>
-      <link>https://leventfrais.github.io/posts/articles/gbit_2405_exp/</link>
+      <link>http://3lizabeth.fun/posts/articles/gbit_2405_exp/</link>
       <pubDate>Sat, 11 May 2024 22:53:29 +0800</pubDate>
-      <guid>https://leventfrais.github.io/posts/articles/gbit_2405_exp/</guid>
+      <guid>http://3lizabeth.fun/posts/articles/gbit_2405_exp/</guid>
       <description>刚收到360的实习offer，就又接到吉比特的面试邀请。刚开始还觉得稳扎稳打，后来才发掘360的offer压根太没技术含量了。。果然甲方还是对技术要求吹毛求疵的，光是基础都把我问住了，还面个什么劲儿呢。至今都有甲方面试阴影了。</description>
     </item>
     <item>
       <title>北京360渗透测试24年4月实习面经</title>
-      <link>https://leventfrais.github.io/posts/articles/360_2404_exp/</link>
+      <link>http://3lizabeth.fun/posts/articles/360_2404_exp/</link>
       <pubDate>Thu, 25 Apr 2024 18:53:14 +0800</pubDate>
-      <guid>https://leventfrais.github.io/posts/articles/360_2404_exp/</guid>
+      <guid>http://3lizabeth.fun/posts/articles/360_2404_exp/</guid>
       <description>人生第一次面正经大厂，虽然流程很规范，但是感觉面试内容还是挺水的。刚开始还在质疑岗位是否是hw黑奴，虽然后来的确去了，并且确实和hw黑奴有区分，但是实际上还是被用“缺人”为理由送去驻场了。不过这都是后话了。整体面试挺简单，主要是问简历实习和做过的事，基本没有八股。</description>
     </item>
     <item>
       <title>久坂玄瑞 最後の言葉〜辞世の句</title>
-      <link>https://leventfrais.github.io/posts/articles/haiku1/</link>
+      <link>http://3lizabeth.fun/posts/articles/haiku1/</link>
       <pubDate>Wed, 10 Apr 2024 22:44:33 +0800</pubDate>
-      <guid>https://leventfrais.github.io/posts/articles/haiku1/</guid>
+      <guid>http://3lizabeth.fun/posts/articles/haiku1/</guid>
       <description>久坂玄瑞 最後の言葉 辞世の句</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>俳句 on 3lizabeth&#39;s Blog</title>
-    <link>https://leventfrais.github.io/tags/%E4%BF%B3%E5%8F%A5/</link>
+    <link>http://3lizabeth.fun/tags/%E4%BF%B3%E5%8F%A5/</link>
     <description>Recent content in 俳句 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
     <lastBuildDate>Wed, 10 Apr 2024 22:44:33 +0800</lastBuildDate>
-    <atom:link href="https://leventfrais.github.io/tags/%E4%BF%B3%E5%8F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://3lizabeth.fun/tags/%E4%BF%B3%E5%8F%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>久坂玄瑞 最後の言葉〜辞世の句</title>
-      <link>https://leventfrais.github.io/posts/articles/haiku1/</link>
+      <link>http://3lizabeth.fun/posts/articles/haiku1/</link>
       <pubDate>Wed, 10 Apr 2024 22:44:33 +0800</pubDate>
-      <guid>https://leventfrais.github.io/posts/articles/haiku1/</guid>
+      <guid>http://3lizabeth.fun/posts/articles/haiku1/</guid>
       <description>久坂玄瑞 最後の言葉 辞世の句</description>
     </item>
   </channel>

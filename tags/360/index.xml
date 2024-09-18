@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>360 on 3lizabeth&#39;s Blog</title>
-    <link>https://leventfrais.github.io/tags/360/</link>
+    <link>http://3lizabeth.fun/tags/360/</link>
     <description>Recent content in 360 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
     <lastBuildDate>Tue, 13 Aug 2024 12:34:20 +0800</lastBuildDate>
-    <atom:link href="https://leventfrais.github.io/tags/360/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://3lizabeth.fun/tags/360/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的360实习</title>
-      <link>https://leventfrais.github.io/posts/articles/%E6%88%91%E7%9A%84360%E5%AE%9E%E4%B9%A0/</link>
+      <link>http://3lizabeth.fun/posts/articles/%E6%88%91%E7%9A%84360%E5%AE%9E%E4%B9%A0/</link>
       <pubDate>Tue, 13 Aug 2024 12:34:20 +0800</pubDate>
-      <guid>https://leventfrais.github.io/posts/articles/%E6%88%91%E7%9A%84360%E5%AE%9E%E4%B9%A0/</guid>
+      <guid>http://3lizabeth.fun/posts/articles/%E6%88%91%E7%9A%84360%E5%AE%9E%E4%B9%A0/</guid>
       <description>从五月收到360offer开始，对于暑假的去向我就一直在犹豫：是呆在网宿，还是回重庆去绿盟，还是去360.最终我去了360。现在想来也无后悔一说。本文记录一下我七八月在360北京的心路历程。</description>
     </item>
   </channel>
