@@ -6,8 +6,22 @@
     <description>Recent content on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 12 Sep 2024 19:50:19 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 17:46:21 +0800</lastBuildDate>
     <atom:link href="http://3lizabeth.fun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> 秋叶未落，夏日仍烈 ---- 记2024秋招</title>
+      <link>http://3lizabeth.fun/posts/articles/autumn_2024/</link>
+      <pubDate>Mon, 14 Oct 2024 17:46:21 +0800</pubDate>
+      <guid>http://3lizabeth.fun/posts/articles/autumn_2024/</guid>
+      <description>秋招如火如荼，但我却觉得似乎快结束了。这刚好快一个月，于是简单记录下秋招感悟吧。</description>
+    </item>
+    <item>
+      <title>搭建自己的老滚5联机服务器---SkyrimTogether:reborn</title>
+      <link>http://3lizabeth.fun/posts/study/skyrimreborn/</link>
+      <pubDate>Tue, 08 Oct 2024 18:34:35 +0800</pubDate>
+      <guid>http://3lizabeth.fun/posts/study/skyrimreborn/</guid>
+      <description>老滚5联机服务器搭建（基于centos Linux与上古卷轴5十周年版） 简介 早在2022年，skyrim reborn就可以支持中型上古卷轴5联</description>
+    </item>
     <item>
       <title>记梦，其一</title>
       <link>http://3lizabeth.fun/posts/chonglang/dream_1/</link>

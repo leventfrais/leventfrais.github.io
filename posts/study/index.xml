@@ -6,8 +6,15 @@
     <description>Recent content in 💻学习 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 11 Sep 2024 10:02:40 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 18:34:35 +0800</lastBuildDate>
     <atom:link href="http://3lizabeth.fun/posts/study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搭建自己的老滚5联机服务器---SkyrimTogether:reborn</title>
+      <link>http://3lizabeth.fun/posts/study/skyrimreborn/</link>
+      <pubDate>Tue, 08 Oct 2024 18:34:35 +0800</pubDate>
+      <guid>http://3lizabeth.fun/posts/study/skyrimreborn/</guid>
+      <description>老滚5联机服务器搭建（基于centos Linux与上古卷轴5十周年版） 简介 早在2022年，skyrim reborn就可以支持中型上古卷轴5联</description>
+    </item>
     <item>
       <title>云服务器上搭建Teamspeak语音服务</title>
       <link>http://3lizabeth.fun/posts/study/teamspeak3build/</link>
