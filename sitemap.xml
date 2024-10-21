@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://3lizabeth.fun/posts/study/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
+    <loc>http://3lizabeth.fun/posts/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
+    <loc>http://3lizabeth.fun/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
+    <loc>http://3lizabeth.fun/categories/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
+    <loc>http://3lizabeth.fun/posts/study/sql_basic/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
+    <loc>http://3lizabeth.fun/tags/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
+    <loc>http://3lizabeth.fun/tags/%E6%A0%87%E7%AD%BE1/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
+    <loc>http://3lizabeth.fun/tags/%E6%A0%87%E7%AD%BE2/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
+    <loc>http://3lizabeth.fun/categories/%E5%88%86%E7%B1%BB1/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
+    <loc>http://3lizabeth.fun/categories/%E5%88%86%E7%B1%BB2/</loc>
+    <lastmod>2024-10-21T16:47:39+08:00</lastmod>
+  </url><url>
     <loc>http://3lizabeth.fun/posts/articles/autumn_2024/</loc>
     <lastmod>2024-10-14T17:46:21+08:00</lastmod>
   </url><url>
     <loc>http://3lizabeth.fun/posts/articles/</loc>
-    <lastmod>2024-10-14T17:46:21+08:00</lastmod>
-  </url><url>
-    <loc>http://3lizabeth.fun/posts/</loc>
-    <lastmod>2024-10-14T17:46:21+08:00</lastmod>
-  </url><url>
-    <loc>http://3lizabeth.fun/</loc>
-    <lastmod>2024-10-14T17:46:21+08:00</lastmod>
-  </url><url>
-    <loc>http://3lizabeth.fun/categories/</loc>
-    <lastmod>2024-10-14T17:46:21+08:00</lastmod>
-  </url><url>
-    <loc>http://3lizabeth.fun/tags/</loc>
     <lastmod>2024-10-14T17:46:21+08:00</lastmod>
   </url><url>
     <loc>http://3lizabeth.fun/categories/%E5%A4%A7%E5%AD%A6/</loc>
@@ -34,9 +52,6 @@
   </url><url>
     <loc>http://3lizabeth.fun/categories/%E6%9D%82%E6%96%87/</loc>
     <lastmod>2024-10-14T17:46:21+08:00</lastmod>
-  </url><url>
-    <loc>http://3lizabeth.fun/posts/study/</loc>
-    <lastmod>2024-10-08T18:34:35+08:00</lastmod>
   </url><url>
     <loc>http://3lizabeth.fun/tags/centos/</loc>
     <lastmod>2024-10-08T18:34:35+08:00</lastmod>
