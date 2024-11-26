@@ -6,14 +6,21 @@
     <description>Recent content on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 21 Oct 2024 16:47:39 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 13:44:25 +0800</lastBuildDate>
     <atom:link href="http://3lizabeth.fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sql_basic</title>
+      <title>随笔</title>
+      <link>http://3lizabeth.fun/posts/chonglang/6aeec54f120aa13be/</link>
+      <pubDate>Tue, 26 Nov 2024 13:44:25 +0800</pubDate>
+      <guid>http://3lizabeth.fun/posts/chonglang/6aeec54f120aa13be/</guid>
+      <description>随笔 感谢信感谢信感谢信……人生顿时黑暗了，可是它本身也未曾光亮过。有过光亮的也是我意淫出来的罢了。我可以在无谓光亮或黑暗的时刻做出无谓是积极</description>
+    </item>
+    <item>
+      <title>sql注入漏洞基础</title>
       <link>http://3lizabeth.fun/posts/study/sql_basic/</link>
       <pubDate>Mon, 21 Oct 2024 16:47:39 +0800</pubDate>
       <guid>http://3lizabeth.fun/posts/study/sql_basic/</guid>
-      <description></description>
+      <description>还没入门安全的时候，多亏铺天盖地的营销号，SQL注入是我听的最多，印象最深刻的漏洞了。本文详细讲讲SQL注入原理危害利用防护以及一些深入一点的内容。继续填坑吧。</description>
     </item>
     <item>
       <title> 秋叶未落，夏日仍烈 --- 记2024秋招</title>

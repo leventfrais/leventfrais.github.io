@@ -6,8 +6,15 @@
     <description>Recent content in 基础漏洞 on 3lizabeth&#39;s Blog</description>
     <generator>Hugo -- 0.132.0</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 20 May 2024 10:08:14 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 16:47:39 +0800</lastBuildDate>
     <atom:link href="http://3lizabeth.fun/tags/%E5%9F%BA%E7%A1%80%E6%BC%8F%E6%B4%9E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sql注入漏洞基础</title>
+      <link>http://3lizabeth.fun/posts/study/sql_basic/</link>
+      <pubDate>Mon, 21 Oct 2024 16:47:39 +0800</pubDate>
+      <guid>http://3lizabeth.fun/posts/study/sql_basic/</guid>
+      <description>还没入门安全的时候，多亏铺天盖地的营销号，SQL注入是我听的最多，印象最深刻的漏洞了。本文详细讲讲SQL注入原理危害利用防护以及一些深入一点的内容。继续填坑吧。</description>
+    </item>
     <item>
       <title>XSS漏洞基础</title>
       <link>http://3lizabeth.fun/posts/study/xss_basic/</link>

@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 21 Oct 2024 16:47:39 +0800</lastBuildDate>
     <atom:link href="http://3lizabeth.fun/posts/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sql_basic</title>
+      <title>sql注入漏洞基础</title>
       <link>http://3lizabeth.fun/posts/study/sql_basic/</link>
       <pubDate>Mon, 21 Oct 2024 16:47:39 +0800</pubDate>
       <guid>http://3lizabeth.fun/posts/study/sql_basic/</guid>
-      <description></description>
+      <description>还没入门安全的时候，多亏铺天盖地的营销号，SQL注入是我听的最多，印象最深刻的漏洞了。本文详细讲讲SQL注入原理危害利用防护以及一些深入一点的内容。继续填坑吧。</description>
     </item>
     <item>
       <title>搭建自己的老滚5联机服务器---SkyrimTogether:reborn</title>

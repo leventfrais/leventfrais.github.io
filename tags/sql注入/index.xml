@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sql注入 on 3lizabeth&#39;s Blog</title>
+    <link>http://3lizabeth.fun/tags/sql%E6%B3%A8%E5%85%A5/</link>
+    <description>Recent content in Sql注入 on 3lizabeth&#39;s Blog</description>
+    <generator>Hugo -- 0.132.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 21 Oct 2024 16:47:39 +0800</lastBuildDate>
+    <atom:link href="http://3lizabeth.fun/tags/sql%E6%B3%A8%E5%85%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sql注入漏洞基础</title>
+      <link>http://3lizabeth.fun/posts/study/sql_basic/</link>
+      <pubDate>Mon, 21 Oct 2024 16:47:39 +0800</pubDate>
+      <guid>http://3lizabeth.fun/posts/study/sql_basic/</guid>
+      <description>还没入门安全的时候，多亏铺天盖地的营销号，SQL注入是我听的最多，印象最深刻的漏洞了。本文详细讲讲SQL注入原理危害利用防护以及一些深入一点的内容。继续填坑吧。</description>
+    </item>
+  </channel>
+</rss>
